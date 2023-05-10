@@ -9,7 +9,7 @@
 ## 📈Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cilua-zol&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cilua-zol&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cilua-zol&theme=radical&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cilua-zol&theme=radical)
 
 
 ## 👬Stack
