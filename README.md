@@ -8,7 +8,7 @@
   
 ## 📈Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cilua-zol&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cilua-zol&show_icons=true&theme=radical&card_width=350)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cilua-zol&show_icons=true&theme=radical&card_width=300)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cilua-zol&show_icons=true&theme=radical&count_private=true&card_width=350&langs_count=4&hide_border=true&&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
