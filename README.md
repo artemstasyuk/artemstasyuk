@@ -9,7 +9,7 @@
 ## 📈Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cilua-zol&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cilua-zol&theme=radical)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cilua-zol&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cilua-zol&show_icons=true&theme=radical&count_private=true&layout=compact&card_width=445&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👬Stack
