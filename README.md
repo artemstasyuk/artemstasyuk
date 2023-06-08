@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/75209526/192382867-9f886733-65fd-4e8a-ba08-642916f95e11.png)
 
-## 👬Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
