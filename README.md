@@ -10,6 +10,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cilua-zol&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cilua-zol&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cilua-zol&show_icons=true&theme=radical&count_private=true&card_width=350&langs_count=4&hide_border=true&hide_title=true&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cilua-zol&show_icons=true&theme=radical&count_private=true&card_width=350&langs_count=4&hide_border=true&hide_title=true&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👬Stack
