@@ -6,12 +6,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cilua-zol&title=Followers&theme=radical&margin-w=-110)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=cilua-zol&title=Repositories&theme=tokyonight&margin-w=-110)](https://github.com/ryo-ma/github-profile-trophy)
   
-## 📈Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cilua-zol&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cilua-zol&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cilua-zol&theme=radical&line_height=15&count_private=true&langs_count=5&hide_border=true&hide=html,css&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 👬Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
