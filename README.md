@@ -1,3 +1,5 @@
+![image](https://github.com/artemstasyuk/artemstasyuk/assets/75209526/4477637c-67d3-4956-bc39-545601e9613d)
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
