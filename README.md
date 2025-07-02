@@ -1,4 +1,4 @@
-# Hi there, I'm Artem Stasyuk (Demyanov) 👋
+# Hi there, I'm Artem Stasyuk (Demyanov) 
 I am a Backend Developer with a strong passion for distributed systems and modern technologies.
 ## About Me
 - Experienced in designing and developing scalable microservices in Golang  
@@ -7,3 +7,6 @@ I am a Backend Developer with a strong passion for distributed systems and moder
 - Strong team player with excellent communication skills
 
 ![](https://count.getloli.com/get/@artemstasyuk?theme=rule34)
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/artemstasyuk-lis/)  
+- [Telegram](https://t.me/artemstasyuk)
