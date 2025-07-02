@@ -8,5 +8,4 @@ I am a Backend Developer with a strong passion for distributed systems and moder
 
 ![](https://count.getloli.com/get/@artemstasyuk?theme=rule34)
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/artemstasyuk-lis/)  
-- [Telegram](https://t.me/artemstasyuk)
+[LinkedIn](https://www.linkedin.com/in/artemstasyuk-lis/)|[Telegram](https://t.me/artemstasyuk)
