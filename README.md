@@ -7,4 +7,5 @@ I am a Backend Developer with a strong passion for distributed systems and moder
 - Strong team player with excellent communication skills
 
 ![](https://count.getloli.com/get/@artemstasyuk?theme=rule34)
+
 [LinkedIn](https://www.linkedin.com/in/artemstasyuk-lis/) | [Telegram](https://t.me/artemstasyuk)
